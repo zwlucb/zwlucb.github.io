@@ -1,25 +1,100 @@
 ---
-title: "Allan Lab - Research"
+title: "ASU RISE Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "ASU RISE Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+The overarching goal of our research is to develop novel learning and 
+control algorithms to enable robots to safely and efficiently collaborate 
+with humans and other robots to accomplish complex tasks. The algorithms are 
+applied to various robot platforms, including [wearable robotics](#wearable-robotics), [soft robotics](#soft-robotics), 
+[unmanned aerial vehicles](#unmanned-aerial-vehicles), and [robot manipulators](#human-robot-collaboration). Please check the summary of each 
+project below and feel free to contact us if you have any questions!
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+## Wearable Robotics
+The aging population and neurological disorders such as stroke 
+and Parkinson's disease lead to increased walking impairments. 
+Traditional gait rehabilitation techniques involve multiple 
+training sessions supervised by physical therapists. This paradigm 
+is physically demanding for therapists, inconvenient for patients, 
+and expensive for the entire healthcare system. Wearable assistive 
+robots have been shown effective in restoring lost motor functions 
+and improve training performance. We have developed intent estimation 
+and adaptive control algorithms to personalize the robot assistance 
+for different users in various tasks.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+This project has been supported by the National Science Foundation and Science Foundation Arizona.
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+<div class="col-sm-6 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Expstates.jpg){: style="width: 465px; float: right; border: 10px"}
+</div>
+<div class="col-sm-6 clearfix">
+<iframe width="450" height="253" src="https://www.youtube.com/embed/E2N7_usONDs" frameborder="0" allowfullscreen></iframe>
+</div>
+<p> &nbsp; </p>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+## Soft Robotics
+This rapidly growing research field of soft robotics combines robotics 
+and materials engineering, to pre-program complex motions into flexible 
+and compliant materials. These soft systems are engineered using low-cost
+fabrication techniques, providing adaptable morphology in response to 
+environmental changes, and are ideally suited for manipulating delicate objects 
+and interfacing with the human body. We are particularly interested in developing 
+soft robotic systems that assist or augment human capabilities. To this end, 
+we are currently exploring two wearable soft robot systems: a soft supernumerary arm 
+for power augmentation (left) and a soft exosuit for walking assistance (right). We collaborate
+with the neurorehabiltiation center at the Barrow Neurological Institute to evaluate the soft robotic exosuit
+for assistance and rehabilitation.  
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+This project has been supported by the National Science Foundation, Arizona Department of Healthcare Services, and 
+Global Sport Institute at ASU. 
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+<div class="col-sm-5 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/respic/soft_combined.png){: style="width: 375px; float: right; border: 10px"}
+</div>
+<div class="col-sm-7 clearfix">
+<iframe width="500" height="281" src="https://www.youtube.com/embed/zNls8IiVqg8" frameborder="0" allowfullscreen></iframe>
+</div>
+<p> &nbsp; </p>
+
+## Unmanned Aerial Vehicles
+Unmanned aerial vehicles (UAVs) become popular in various applications, such as 
+aerial photography, surveillance, search and rescue, and precision agriculture. However, 
+autonomous operations of small UAVs in dynamic environments pose challenges on the design of vehicle hardware and 
+the embedded autonomy algorithms. Our research in this area will 1) explore active morphing of the UAVs, 
+2) develop accurate dynamic models and precision control algorithms, 3) integrate vision sensors 
+for object detection and motion planning, and 4) enable multiple UAVs to cooperate in aerial surveillance, 
+object transport, and aerial manipulation. 
+
+This project has been supported by the Salt River Project and the Northrop Grumman Corporation (through the Adaptive Intelligent Materials & Systems Center (AIMS) at ASU).
+
+<div class="col-sm-5 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/respic/fuavweb.png){: style="width: 375px; float: right; border: 10px"}
+</div>
+<div class="col-sm-7 clearfix">
+<iframe width="500" height="281" src="https://www.youtube.com/embed/ETKrxgVHOgY" frameborder="0" allowfullscreen></iframe>
+</div>
+<p> &nbsp; </p>
+
+## Human-Robot Collaboration
+Robots are increasingly employed in close proximity with humans. For the humans and robots to collaborate safely and 
+efficiently, a robot needs to understand human intents, predict human actions, and optimize its own actions to 
+complete a task with human. In this project, we will explore a game-theoretic framework to model the bilateral inference 
+and decision making process between the human and robot. We are particularly interested in physical tasks that involve 
+coupled dynamics between the human and robot. One major challenge is to model the human actions in highly dynamic tasks given 
+the strong variability and uncertainty of humans. We will apply the developed algorithms in various human-robot collaboration 
+scenarios, including autonomous vehicles, collaborative manufacturing, and wearable robots.
+
+This project has been supported by the National Science Foundation. For more details about this project, please check [this page]({{ site.url }}{{ site.baseurl }}/nri.html).
+
+<div class="col-sm-5 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/respic/phri2.jpg){: style="width: 375px; float: right; border: 10px"}
+</div>
+<div class="col-sm-7 clearfix">
+<iframe width="500" height="281" src="https://www.youtube.com/embed/luX1xlsm6UQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<p> &nbsp; </p>

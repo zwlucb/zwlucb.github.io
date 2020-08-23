@@ -1,0 +1,121 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Sunny Amatya
+  photo: sunny.jpg
+  info: Sys. Eng., 2019-
+  email: samtya@asu.edu
+
+- name: Reed Axman
+  photo: Reed.jfif
+  info: R&AS, 2020-
+  link:
+    url: https://www.linkedin.com/in/reed-axman-43287a13b/
+    display: More information
+
+- name: Jonathan Bush
+  photo: jebush.jpg
+  info: Sys. Eng., 2020-
+  email: jebush2@asu.edu
+
+- name: Yizhuang Garrard
+  photo: JJ.jpg
+  info: Sys. Eng., 2019-
+  link:
+    url: https://www.linkedin.com/in/yizhuang-g/
+    display: More information
+
+- name: Shatadal Mishra
+  photo: shatadal.png
+  info: Sys. Eng., 2016-
+  email: smishr13@asu.edu
+
+- name: Imran Irfan Bin Mohd
+  photo: imran.png
+  info: Mech. Eng., 2019-
+  link:
+    url: https://www.linkedin.com/in/imranmohd97/
+    display: More information
+
+- name: Karishma Patnaik
+  photo: karishma1.jpg
+  info: Sys. Eng., 2019-
+  email: kpatnaik@asu.edu
+
+- name: Zhi Qiao
+  photo: george.jpg
+  info: Mech. Eng., 2017-
+  email: zqiao7@asu.edu
+
+- name: Mostafa Rezayat
+  photo: seyed.jpg
+  info: Mech. Eng., 2018-
+  email: srezayat@asu.edu
+
+- name: Pallavi Shintre
+  photo: Pallavi.jpg
+  info: Elec. Eng., 2018-
+  link:
+    url: https://www.linkedin.com/in/pallavi-shintre-976954a2/
+    display: More information
+
+- name: Mason Smith
+  photo: Mason.jpg
+  info: Eng., 2020-
+  link:
+    url: http://www.linkedin.com/in/masonowensmith
+    display: More information
+
+- name: Kyle Stewart
+  photo: Kyle.jpg
+  info: R&AS, 2020-
+  link:
+    url: https://www.linkedin.com/in/kyle-stewart-043839149
+    display: More information
+
+- name: Danish Faraaz Syed
+  photo: Danish.png
+  info: R&AS, 2019-
+  link:
+    url: https://www.linkedin.com/in/danish-faraaz-syed-464a4a161/
+    display: More information
+
+- name: Rakshith Vishwanatha
+  photo: Rakshith.jpg
+  info: R&AS, 2019-
+  link:
+    url: https://www.linkedin.com/in/rakshith-vishwanatha/
+    display: More information
+
+- name: Yiwei Wang
+  photo: yiwei.png
+  info: Mech. Eng., 2016-
+  email: Yiwei.Wang.3@asu.edu
+
+- name: Emiliano Quinones Yumbla
+  photo: emiliano.png
+  info: Mech. Eng., 2019-
+  email: ejquino1@asu.edu
+
+- name: Venkatesh Vaidyanathan
+  photo: Venky.png
+  info: R&AS, 2020-
+  link:
+    url: https://www.linkedin.com/in/venkatesh-vaidyanathan-64880493/
+    display: More information
+
+- name: Sam Zha
+  photo: Sam.jpg
+  info: Mfg. Eng., 2020-
+  link:
+    url: https://www.linkedin.com/in/sam-zha
+    display: More information
+
+

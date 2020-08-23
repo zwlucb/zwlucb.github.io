@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "ASU RISE Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "ASU RISE Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,11 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+(For a list of selected journal papers and recent conference papers, see [below](#full-list). A full list of publications can be viewed through [Google Scholar](https://scholar.google.com/citations?user=S2xHIfoAAAAJ&hl=en))
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+{% comment %}
+
+## Group highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,12 +53,26 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+# full-list
 
-## Full List
+{% endcomment %}
 
+<div class="col-sm-6 clearfix">
+<h2>Selected Journal Publications</h2>
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+</div>
+
+<div class="col-sm-6 clearfix">
+<h2>Recent Conference Papers</h2>
+{% for publi in site.data.publist_conf %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+</div>

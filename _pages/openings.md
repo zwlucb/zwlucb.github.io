@@ -1,37 +1,56 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "ASU RISE Lab - Education"
 layout: textlay
-excerpt: "Openings"
+excerpt: "ASU RISE Lab"
 sitemap: false
-permalink: /vacancies
+permalink: /education
 ---
 
-# Open positions
+# Courses
 
-We are always looking for new group members with passion, talent, and grit!
+### EGR433: Transforms and System Modeling (spring semester)
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+<b>Course Description</b>: This is a senior-level undergraduate class. Students will gain an understanding of the relationships between 
+inputs and outputs in mechanical, electrical, and electro-mechanical systems, as well 
+as learn the fundamental tools for control system analysis and design. Students will 
+be curious about the transforms and modeling concepts, able to connect those concepts 
+to real-world engineering systems, and apply those mathematical tools to improve the 
+engineering systems and create values.
 
-### Current open positions
+### EGR556: System Control and Optimization (fall semester)
 
-You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
-
-It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+<b>Course Description</b>: This is a mixed style graduate-level control class. The first 
+part of the class will be lecture-based, and the instructor will introduce fundamental 
+knowledge of state-space modeling and control. The second part of this class features 
+a course project that students will study and apply advanced control techniques to 
+real-world problems, including robotics, energy systems, autonomous vehicles, and 
+chemical process. Students will start the course project early in the semester, and 
+there will be dedicated class time for literature reviews, research discussions, and 
+milestone presentations. The class will end with a final presentation and report. 
+Each group will also make a poster and present their work in the innovation showcase 
+at the end of the semester.
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+# Outreach
+
+The ASU RISE LAB is committed to education and outreach, and the lab has actively participated 
+in various local outreach events. We are excited to showcase our robotics research to anyone who 
+is interested in learning more about it. The lab will open its door annually during ASU Night of 
+the Open Door (late January) and National Robotics Week (mid April). You are also welcome to contact 
+Dr. Zhang if you would like to schedule a tour of the lab outside those events. 
+
+<div class="col-sm-6 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/NRW.png){: style="width: 435px; float: left; border: 10px"}
+[National Robotics Week (RoboWeek)](https://www.nationalroboticsweek.org/) is a series of grassroots events and activities during the month of 
+April aimed at increasing public awareness of the strength and importance of the U.S. robotics industry 
+and of the tremendous social and cultural impact that robotics will have on the future.
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/NRW_fig.jpg){: style="width: 435px; float: left; border: 10px"}
+</div>
+
+<div class="col-sm-6 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/NOD.png){: style="width: 490px; float: right; border: 10px"}
+[ASU Open Door](https://opendoor.asu.edu/): Every year ASU invites the local community to visit any of the five campus locations, allowing visitors to explore 
+the innovative spaces accessible only to ASU students. Visitors have the opportunity to participate in hundreds of 
+interactive activities and talk to students, faculty and staff.
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/NOD_fig.jpg){: style="width: 490px; float: left; border: 10px"}
+</div>

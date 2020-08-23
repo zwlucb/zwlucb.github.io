@@ -8,9 +8,30 @@
 #  education3:
 #  education4:
 
-- name: Rosanne Wijgman
-  photo: rock.jpg
-  info: Master student
-  email: rosanne.wijgman@student.ru.nl
-  number_educ: 0
-  education1:
+- name: Katherine Duford
+  photo: Katie.jpeg
+  info: Mech. Eng., (NSF-REU student), 2020-
+  link:
+    url: http://linkedin.com/in/katherine-duford-7367a61a0
+    display: More information
+
+- name: Edward Goldenberg
+  photo: Bradley.png
+  info: Eng., 2019-
+  link:
+    url: https://www.linkedin.com/in/edward-g/
+    display: More information
+
+- name: Lucianne Morin
+  photo: Luci.jpg
+  info: Bio. Eng., (NSF-REU student), 2020-
+  link:
+    url: https://www.linkedin.com/in/lucimorin/
+    display: More information
+
+- name: Bill Nguyen
+  photo: Bill.jpeg
+  info: Mech. Eng., 2020-
+  link:
+    url: https://www.linkedin.com/in/bill-nguyen-9aab28154/
+    display: More information
