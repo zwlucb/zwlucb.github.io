@@ -44,7 +44,7 @@ Dr. Zhang if you would like to schedule a tour of the lab outside those events.
 [National Robotics Week (RoboWeek)](https://www.nationalroboticsweek.org/) is a series of grassroots events and activities during the month of 
 April aimed at increasing public awareness of the strength and importance of the U.S. robotics industry 
 and of the tremendous social and cultural impact that robotics will have on the future.
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/NRW_fig.jpg){: style="width: 435px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/NRW_fig.JPG){: style="width: 435px; float: left; border: 10px"}
 </div>
 
 <div class="col-sm-6 clearfix">
@@ -52,5 +52,5 @@ and of the tremendous social and cultural impact that robotics will have on the 
 [ASU Open Door](https://opendoor.asu.edu/): Every year ASU invites the local community to visit any of the five campus locations, allowing visitors to explore 
 the innovative spaces accessible only to ASU students. Visitors have the opportunity to participate in hundreds of 
 interactive activities and talk to students, faculty and staff.
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/NOD_fig.jpg){: style="width: 490px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/NOD_fig.JPG){: style="width: 490px; float: left; border: 10px"}
 </div>
