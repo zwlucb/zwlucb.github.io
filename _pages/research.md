@@ -10,10 +10,14 @@ permalink: /research/
 
 The overarching goal of our research is to develop novel learning and 
 control algorithms to enable robots to safely and efficiently collaborate 
-with humans and other robots to accomplish complex tasks. The algorithms are 
+with humans and other robots to complete complex tasks. The algorithms are 
 applied to various robot platforms, including [wearable robotics](#wearable-robotics), [soft robotics](#soft-robotics), 
 [unmanned aerial vehicles](#unmanned-aerial-vehicles), and [robot manipulators](#human-robot-collaboration). Please check the summary of each 
-project below and feel free to contact us if you have any questions!
+project below and feel free to contact us if you have any questions or want to know more details!
+
+We greatly acknowledge the National Science Foundation, Office of Naval Research, 
+Science Foundation Arizona, Arizona Department of Health Services, Salt River Project, Northrop Grumman Cooperation, 
+and several internal funding sources, for supporting our past and current research.
 
 ## Wearable Robotics
 The aging population and neurological disorders such as stroke 
@@ -26,8 +30,9 @@ robots have been shown effective in restoring lost motor functions
 and improve training performance. We have developed intent estimation 
 and adaptive control algorithms to personalize the robot assistance 
 for different users in various tasks.
-
+{% comment %}
 This project has been supported by the National Science Foundation and Science Foundation Arizona.
+{% endcomment %}
 
 <div class="col-sm-6 clearfix">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Expstates.jpg){: style="width: 465px; float: right; border: 10px"}
@@ -49,9 +54,10 @@ we are currently exploring two wearable soft robot systems: a soft supernumerary
 for power augmentation (left) and a soft exosuit for walking assistance (right). We collaborate
 with the neurorehabiltiation center at the Barrow Neurological Institute to evaluate the soft robotic exosuit
 for assistance and rehabilitation.  
-
+{% comment %}
 This project has been supported by the National Science Foundation, Arizona Department of Healthcare Services, and 
 Global Sport Institute at ASU. 
+{% endcomment %}
 
 <div class="col-sm-5 clearfix">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/soft_combined.png){: style="width: 375px; float: right; border: 10px"}
@@ -69,8 +75,9 @@ the embedded autonomy algorithms. Our research in this area will 1) explore acti
 2) develop accurate dynamic models and precision control algorithms, 3) integrate vision sensors 
 for object detection and motion planning, and 4) enable multiple UAVs to cooperate in aerial surveillance, 
 object transport, and aerial manipulation. 
-
+{% comment %}
 This project has been supported by the Salt River Project and the Northrop Grumman Corporation (through the Adaptive Intelligent Materials & Systems Center (AIMS) at ASU).
+{% endcomment %}
 
 <div class="col-sm-5 clearfix">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/fuavweb.png){: style="width: 375px; float: right; border: 10px"}
@@ -87,9 +94,10 @@ complete a task with human. In this project, we will explore a game-theoretic fr
 and decision making process between the human and robot. We are particularly interested in physical tasks that involve 
 coupled dynamics between the human and robot. One major challenge is to model the human actions in highly dynamic tasks given 
 the strong variability and uncertainty of humans. We will apply the developed algorithms in various human-robot collaboration 
-scenarios, including autonomous vehicles, collaborative manufacturing, and wearable robots.
-
+scenarios, including autonomous vehicles, collaborative manufacturing, and wearable robots. For more details about how we apply the developed algorithms to autonomous vehicles, please check [this page]({{ site.url }}{{ site.baseurl }}/nri.html).
+{% comment %}
 This project has been supported by the National Science Foundation. For more details about this project, please check [this page]({{ site.url }}{{ site.baseurl }}/nri.html).
+{% endcomment %}
 
 <div class="col-sm-5 clearfix">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/phri2.jpg){: style="width: 375px; float: right; border: 10px"}

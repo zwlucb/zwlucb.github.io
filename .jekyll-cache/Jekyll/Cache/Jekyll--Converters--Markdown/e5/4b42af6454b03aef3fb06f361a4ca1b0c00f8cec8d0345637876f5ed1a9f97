@@ -7,9 +7,9 @@
 <div class="row">
 
   <div class="col-sm-12 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/Wl-400450.jpg" class="img-responsive" width="22%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/WL-400450.jpg" class="img-responsive" width="22%" style="float: left" /></p>
     <h4>Wenlong Zhang</h4>
-    <p><i>Assistant Professor and Lab Director<br />email: <a href="mailto:Wenlong.Zhang@asu.edu">Wenlong.Zhang@asu.edu</a></i></p>
+    <p><i>Assistant Professor and Lab Director<br />Email: <a href="mailto:Wenlong.Zhang@asu.edu">Wenlong.Zhang@asu.edu</a></i></p>
     <ul style="overflow: hidden">
 
   
@@ -123,7 +123,7 @@
   </div>
 
   <div class="col-sm-4 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/imran.png" class="img-responsive" width="100" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Imran.png" class="img-responsive" width="100" style="float: left" /></p>
     <h4>Imran Irfan Bin Mohd</h4>
     <p><i>Mech. Eng., 2019-<br /> <a href="https://www.linkedin.com/in/imranmohd97/">More information</a></i></p>
     <ul style="overflow: hidden">
@@ -199,7 +199,7 @@
 <div class="row">
 
   <div class="col-sm-4 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/Pallavi.jpg" class="img-responsive" width="100" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Pallavi.JPG" class="img-responsive" width="100" style="float: left" /></p>
     <h4>Pallavi Shintre</h4>
     <p><i>Elec. Eng., 2018-<br /> <a href="https://www.linkedin.com/in/pallavi-shintre-976954a2/">More information</a></i></p>
     <ul style="overflow: hidden">
