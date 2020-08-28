@@ -89,8 +89,8 @@ This project has been supported by the Salt River Project and the Northrop Grumm
 
 ## Human-Robot Collaboration
 Robots are increasingly employed in close proximity with humans. For the humans and robots to collaborate safely and 
-efficiently, a robot needs to understand human intents, predict human actions, and optimize its own actions to 
-complete a task with human. In this project, we will explore a game-theoretic framework to model the bilateral inference 
+efficiently, a robot needs to understand human intents, predict human actions, consider human factors, in order to optimize its own actions to 
+complete a task with human safely, efficiently, and friendly. In this project, we will explore a game-theoretic framework to model the bilateral inference 
 and decision making process between the human and robot. We are particularly interested in physical tasks that involve 
 coupled dynamics between the human and robot. One major challenge is to model the human actions in highly dynamic tasks given 
 the strong variability and uncertainty of humans. We will apply the developed algorithms in various human-robot collaboration 
