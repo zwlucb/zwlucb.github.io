@@ -56,13 +56,13 @@ Sunny Amatya, researh assistant
 </div>
 
 <div class="col-sm-2 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/sundevil.jpg){: style="width: 125px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Lei.jpg){: style="width: 125px; float: center; border: 10px"}
 Lei Zhang, researh assistant
 {: style="font-size: 100%; text-align: center;"}
 </div>
 
 <div class="col-sm-2 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/sundevil.jpg){: style="width: 125px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/varun.jpg){: style="width: 125px; float: center; border: 10px"}
 Varun Jammula, research assistant
 {: style="font-size: 100%; text-align: center;"}
 </div>
@@ -75,23 +75,25 @@ Yi Chen, master's student
 
 <div class="col-sm-2 clearfix">
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/sundevil.jpg){: style="width: 125px; float: center; border: 10px"}
-Zach Hoffman, undergraduate (FURI) student 
-{: style="font-size: 100%; text-align: center;"}
-</div>
-
-<div class="col-sm-2 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/sundevil.jpg){: style="width: 125px; float: center; border: 10px"}
 Tanner Merry, undergraduate (REU) student
 {: style="font-size: 100%; text-align: center;"}
 </div>
 
-<div class="col-sm-2 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/sundevil.jpg){: style="width: 125px; float: center; border: 10px"}
-Grace Zhang, undergraduate (REU) student
-{: style="font-size: 100%; text-align: center;"}
+</div>
+
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+<h4>Project Alumni</h4>
+{% for member in site.data.alumni_nri %}
+{{ member.name }}<br>
+{{ member.title }}<br>
+{{ member.job }}
+{% endfor %}
 </div>
 
 </div>
+
 
 ### Publications
 
@@ -107,6 +109,7 @@ Source code available [here](https://github.com/kausic94/Hallucination)
 Socially-Graceful Driving](https://ieeexplore.ieee.org/abstract/document/8793835/)," <em> 2019 International Conference on Robotics and Automation (ICRA) </em>, 2019, pp. 4325-4331, doi: 10.1109/ICRA.2019.8793835.
 Source code available [here](https://github.com/DesignInformaticsLab/Social_Gracefulness_of_Autonomous_Systems) 
 
+[C2] Y. Chen, L. Zhang, T. Merry, S. Amatya, W. Zhang and Y. Ren, "[When Shall I Be Empathetic? The Utility of Empathetic Parameter Estimation in Multi-Agent Interactions](https://arxiv.org/abs/2011.02047)," <em> 2021 International Conference on Robotics and Automation (ICRA) </em>, 2021, accepted.
 
 ### Acknowledgement and Disclaimer
 
