@@ -37,13 +37,6 @@
   info: Sys. Eng., 2016-
   email: smishr13@asu.edu
 
-- name: Imran Irfan Bin Mohd
-  photo: Imran.png
-  info: Mech. Eng., 2019-
-  link:
-    url: https://www.linkedin.com/in/imranmohd97/
-    display: More information
-
 - name: Karishma Patnaik
   photo: karishma1.jpg
   info: Sys. Eng., 2019-
@@ -59,11 +52,11 @@
   info: Mech. Eng., 2018-
   email: srezayat@asu.edu
 
-- name: Pallavi Shintre
-  photo: Pallavi.JPG
-  info: Elec. Eng., 2018-
+- name: Sooraj Sivakumar
+  photo: Sooraj_crop.jpeg
+  info: R&AS, 2020-
   link:
-    url: https://www.linkedin.com/in/pallavi-shintre-976954a2/
+    url: linkedin.com/in/sooraj-sivakumar
     display: More information
 
 - name: Mason Smith
@@ -94,22 +87,10 @@
     url: https://www.linkedin.com/in/rakshith-vishwanatha/
     display: More information
 
-- name: Yiwei Wang
-  photo: yiwei.png
-  info: Mech. Eng., 2016-
-  email: Yiwei.Wang.3@asu.edu
-
 - name: Emiliano Quinones Yumbla
   photo: emiliano.png
   info: Mech. Eng., 2019-
   email: ejquino1@asu.edu
-
-- name: Venkatesh Vaidyanathan
-  photo: Venky.png
-  info: R&AS, 2020-
-  link:
-    url: https://www.linkedin.com/in/venkatesh-vaidyanathan-64880493/
-    display: More information
 
 - name: Sam Zha
   photo: Sam.jpg

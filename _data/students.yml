@@ -8,26 +8,9 @@
 #  education3:
 #  education4:
 
-- name: Katherine Duford
-  photo: Katie.jpeg
-  info: Mech. Eng., (NSF-REU student), 2020-
-  link:
-    url: http://linkedin.com/in/katherine-duford-7367a61a0
-    display: More information
-
-- name: Edward Goldenberg
-  photo: Bradley.png
-  info: Eng., 2019-
-  link:
-    url: https://www.linkedin.com/in/edward-g/
-    display: More information
-
-- name: Lucianne Morin
-  photo: Luci.jpg
-  info: Bio. Eng., (NSF-REU student), 2020-
-  link:
-    url: https://www.linkedin.com/in/lucimorin/
-    display: More information
+- name: Deepit Arora
+  photo: Deepit.jpg
+  info: Eng., 2020-
 
 - name: Bill Nguyen
   photo: Bill.jpeg
@@ -35,3 +18,8 @@
   link:
     url: https://www.linkedin.com/in/bill-nguyen-9aab28154/
     display: More information
+
+- name: Hatvi Thakkar
+  photo: Hatvi_crop.jpg
+  info: Aero. Eng., 2021-
+
