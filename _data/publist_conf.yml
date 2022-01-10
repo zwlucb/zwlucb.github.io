@@ -1,10 +1,40 @@
+- title: "When Shall I Be Empathetic? The Utility of Empathetic Parameter Estimation in Multi-Agent Interactions"
+  image: TBG_ARPES.png
+  description:
+  authors: Y. Chen, L. Zhang, T. Merry, S. Amatya, W. Zhang, Y. Ren
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9561079/
+    display:  IEEE International Conference on Robotics and Automation (ICRA), pp. 2761-2767, 2021.
+  highlight: 0
+  news2:
+
+- title: "Collision Recovery Control of a Foldable Quadrotor"
+  image: TBG_ARPES.png
+  description:
+  authors: K. Patnaik, S. Mishra, Z. Chase, W. Zhang
+  link:
+    url: https://ieeexplore.ieee.org/document/9517341
+    display:  IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), pp. 418-423, 2021.
+  highlight: 0
+  news2:
+
+- title: "Design, Fabrication, and Characterization of a Helical Twisting, Contracting, and Bending Fabric Soft Continuum Actuator"
+  image: TBG_ARPES.png
+  description:
+  authors: P. H. Nguyen, I. I. Mohd, K. Duford, X. Bao, W. Zhang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9479350/
+    display:  IEEE International Conference on Soft Robotics (RoboSoft), pp. 567-570, 2021.
+  highlight: 0
+  news2:
+
 - title: "Design and Control of SQUEEZE: A Spring-augmented QUadrotor for intEractions with the Environment to squeeZE-and-fly"
   image: TBG_ARPES.png
   description:
   authors: K. Patnaik, S. Mishra, M. Rezayat, W. Zhang
   link:
-    url: ""
-    display:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), accepted, 2020
+    url: https://ieeexplore.ieee.org/abstract/document/9341730/
+    display:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 1364-1370, 2020
   highlight: 0
   news2:
 
@@ -13,8 +43,8 @@
   description:
   authors: S. Mishra, K. Patnaik, Y. Garrard, Z. Chase, M. Ploughe, W. Zhang
   link:
-    url: ""
-    display:  IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), accepted, 2020.
+    url: https://ieeexplore.ieee.org/abstract/document/9158943/
+    display:  IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), pp. 1270-1275, 2020.
   highlight: 0
   news2:
 
@@ -23,8 +53,8 @@
   description:
   authors: G. Clark, J. Campbell, M. Rezayat, W. Zhang, H. Ben Amor
   link:
-    url: ""
-    display: IEEE International Conference on Robotics and Automation (ICRA), accepted, 2020.
+    url: https://ieeexplore.ieee.org/abstract/document/9196676/
+    display: IEEE International Conference on Robotics and Automation (ICRA), pp. 7599-7605, 2020.
   highlight: 0
   news2:
 
@@ -44,8 +74,8 @@
   description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
   authors: S. Amatya, M. Rezayat, W. Zhang
   link:
-    url: ""
-    display:  American Control Conference (ACC), accepted, 2020.
+    url: https://ieeexplore.ieee.org/abstract/document/9147738/
+    display:  American Control Conference (ACC), pp. 557-562, 2020.
   highlight: 0
   news2:
 

@@ -24,7 +24,7 @@ Jump to [faculty](#faculty), [graduate students](#graduate-students), [undergrad
 {% endif %}
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="22%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="24%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -199,9 +199,10 @@ Jump to [faculty](#faculty), [graduate students](#graduate-students), [undergrad
 <div class="col-sm-12 clearfix">
 <h4>Doctoral Students</h4>
 {% for member in site.data.alumni_visitors %}
-{{ member.name }}<br>
+{{ member.name }} {{ member.job }}
+{% comment %}
 <i>Dissertation: {{ member.thesis }}</i><br>
-{{ member.job }}
+{% endcomment %}
 {% endfor %}
 </div>
 

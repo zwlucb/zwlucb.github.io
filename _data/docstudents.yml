@@ -20,11 +20,6 @@
     url: https://www.linkedin.com/in/reed-axman-43287a13b/
     display: More information
 
-- name: Xiong Bao
-  photo: XiongBao.jpg
-  info: R&AS, 2020-
-  email: xbao13@asu.edu
-
 - name: Jonathan Bush
   photo: jebush.jpg
   info: Sys. Eng., 2020-
@@ -36,11 +31,6 @@
   link:
     url: https://www.linkedin.com/in/yizhuang-g/
     display: More information
-
-- name: Shatadal Mishra
-  photo: shatadal.png
-  info: Sys. Eng., 2016-
-  email: smishr13@asu.edu
 
 - name: Karishma Patnaik
   photo: karishma1.jpg
@@ -57,13 +47,6 @@
   info: Mech. Eng., 2018-
   email: srezayat@asu.edu
 
-- name: Sooraj Sivakumar
-  photo: Sooraj_crop.jpeg
-  info: R&AS, 2020-
-  link:
-    url: linkedin.com/in/sooraj-sivakumar
-    display: More information
-
 - name: Mason Smith
   photo: Mason.jpg
   info: Eng., 2020-
@@ -78,26 +61,12 @@
     url: https://www.linkedin.com/in/kyle-stewart-043839149
     display: More information
 
-- name: Danish Faraaz Syed
-  photo: Danish.png
-  info: R&AS, 2019-
-  link:
-    url: https://www.linkedin.com/in/danish-faraaz-syed-464a4a161/
-    display: More information
-
-- name: Rakshith Vishwanatha
-  photo: Rakshith.jpg
-  info: R&AS, 2019-
-  link:
-    url: https://www.linkedin.com/in/rakshith-vishwanatha/
-    display: More information
-
 - name: Emiliano Quinones Yumbla
   photo: emiliano.png
   info: Mech. Eng., 2019-
   email: ejquino1@asu.edu
 
-- name: Sam Zha
+- name: Qinchen Zha
   photo: Sam.jpg
   info: Mfg. Eng., 2020-
   link:

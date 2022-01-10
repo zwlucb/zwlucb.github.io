@@ -1,3 +1,33 @@
+- title: "Human Assistance and Augmentation with Wearable Soft Robotics: a Literature Review and Perspectives"
+  image: TBG_ARPES.png
+  description:
+  authors: E. Q. Yumbla, Z. Qiao, W. Tao, W. Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s43154-021-00067-0
+    display:  International Journal of Intelligent Robotics and Applications, 2, pp. 399-413, 2021.
+  highlight: 0
+  news2:
+
+- title: "Towards Reconfigurable and Flexible Multirotors - A Literature Survey and Discussion on Potential Challenges"
+  image: TBG_ARPES.png
+  description:
+  authors: K. Patnaik, W. Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s41315-021-00200-4
+    display:  International Journal of Intelligent Robotics and Applications, 5(3), pp. 365-380, 2021.
+  highlight: 0
+  news2:
+
+- title: "Autonomous Vision-guided Object Collection from Water Surfaces with a Customized Multirotor (Best Student Paper Award Finalist in AIM 2021)"
+  image: TBG_ARPES.png
+  description:
+  authors: S. Mishra, D. F. Syed, M. Ploughe, W. Zhang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9432733/
+    display:  IEEE/ASME Transactions on Mechatronics, 26(4), pp. 1914-1922, 2021.
+  highlight: 0
+  news2:
+
 - title: "Design and Computational Modeling of Fabric Soft Pneumatic Actuators for Wearable Assistive Devices"
   image: TBG_ARPES.png
   description:
