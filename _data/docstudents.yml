@@ -8,22 +8,15 @@
 #  education3:
 #  education4:
 
+- name: Aravind Adhith
+  photo: sundevil.jpg
+  info: R&AS, 2022-
+  email: asu.edu
+
 - name: Sunny Amatya
   photo: sunny.jpg
   info: Sys. Eng., 2019-
   email: samtya@asu.edu
-
-- name: Reed Axman
-  photo: Reed.jfif
-  info: R&AS, 2020-
-  link:
-    url: https://www.linkedin.com/in/reed-axman-43287a13b/
-    display: More information
-
-- name: Aaryan Bhardwaj
-  photo: AaryanBhardwaj_cut.jpg
-  info: R&AS, 2021-
-  email: asu.edu
 
 - name: Jonathan Bush
   photo: jebush.jpg
@@ -52,16 +45,18 @@
   info: Mech. Eng., 2018-
   email: srezayat@asu.edu
 
-- name: Darsh Shah
-  photo: Darsh_image.jpg
+- name: Jahnav Rokalaboina
+  photo: sundevil.jpg
   info: R&AS, 2022-
   email: asu.edu
-  link:
-    url: http://www.linkedin.com/in/darsh23
-    display: More information
+
+- name: Arshnoor Singh Sachdeva
+  photo: sundevil.jpg
+  info: R&AS, 2022-
+  email: asu.edu
 
 - name: Achyut Shrestha
-  photo: sundevil.jpg
+  photo: AchyutShrestha_ASU_cut.png
   info: Sys. Eng., 2022-
   email: asu.edu
 
@@ -76,13 +71,6 @@
   photo: Yousef_cut.jpg
   info: Mech. Eng., 2021-
   email: asu.edu
-
-- name: Kyle Stewart
-  photo: Kyle.jpg
-  info: R&AS, 2020-
-  link:
-    url: https://www.linkedin.com/in/kyle-stewart-043839149
-    display: More information
 
 - name: Weijia Tao
   photo: sundevil.jpg
