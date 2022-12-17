@@ -7,7 +7,7 @@ permalink: /
 ---
 
 Welcome to the <b>R</b>obotics and <b>I</b>ntelligent <b>S</b>yst<b>E</b>ms Laboratory (<b>RISE</b>) at Arizona State University! We work on design and control of advanced robotic systems, including wearable assistive robots, soft robots, and unmanned aerial vehicles. Our aim is to design novel structures/mechanisms and intelligent learning/control algorithms for robots to safely and efficiently collaborate with human in dynamic tasks. 
-We are part of [The Polytechnic School](https://poly.engineering.asu.edu/) at the [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/). We are affiliated with the [ASU Robotics Group](https://robotics.asu.edu/) and [Center for Human, Artificial Intelligence, and Robot Teaming (CHART)](https://globalsecurity.asu.edu/center-human-artificial-intelligence-and-robot-teaming). The lab is directed by Dr. Wenlong Zhang, an Associate Professor of Systems Engineering at Arizona State University.
+We are part of [School of Manufacturing Systems and Networks](https://msn.engineering.asu.edu/) at the [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/). We are affiliated with the [ASU Robotics Group](https://robotics.asu.edu/) and [Center for Human, Artificial Intelligence, and Robot Teaming (CHART)](https://globalsecurity.asu.edu/center-human-artificial-intelligence-and-robot-teaming). The lab is directed by Dr. Wenlong Zhang, an Associate Professor of Systems Engineering at Arizona State University.
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -15,6 +15,7 @@ We are part of [The Polytechnic School](https://poly.engineering.asu.edu/) at th
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -32,6 +33,9 @@ We are part of [The Polytechnic School](https://poly.engineering.asu.edu/) at th
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/quad.JPG" alt="Slide 4" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FURI2022.JPG" alt="Slide 4" />
+        </div>        
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

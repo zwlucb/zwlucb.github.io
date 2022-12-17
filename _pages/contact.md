@@ -14,7 +14,7 @@ Here are some resources for the new members of the lab.
 
 **Joining the team's Slack channel**: Please send an email to Dr. Zhang with the email you want to use for your Slack account to join the team's channel.
 
-**Lab server and printer request**: Please submit a request to the IT department of the Polytechnic School via [this link](https://poly.engineering.asu.edu/tps-support-services/). Please remember to include your full name and asurite in your request. 
+**Lab server and printer request**: Please submit a request to the IT department of the School via [this link](https://poly.engineering.asu.edu/tps-support-services/). Please remember to include your full name and asurite in your request. 
 
 **Purchase and reimbursement requests**: For purchase requests, please complete [this form]({{ site.baseurl }}/downloads/PurchaseRequest.xlsx) and send it to Dr. Zhang for approval. Please leave the account blank and use either the lab or Dr. Zhang's office as the recipient address. Please put enough details to the business justification in order to expedite the process.
 
@@ -26,7 +26,7 @@ For reimbursement, please inform Dr. Zhang and get his approval **before** makin
 
 # Contact Information 
 
-**Dr. Zhang's office**: Room 154, 6075 S. Innovation Way West, Mesa, AZ, 85212. Tel: (480) 727-5276. 
+**Dr. Zhang's office**: Room 331M, Santa Catalina Hall, 7271 E Sonoran Arroyo Mall, Mesa, AZ 85212. Tel: (480) 727-5276. 
 
 **RISE Lab**: Room 179, 6075 S. Innovation Way West, Mesa, AZ, 85212.
 

@@ -1,3 +1,23 @@
+- title: "Model-based contact detection and position control of a fabric soft robot in unknown environments"
+  image: TBG_ARPES.png
+  description:
+  authors: Z. Qiao, P. H. Nguyen, W. Zhang
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/frobt.2022.997366/full
+    display: Frontiers in Robotics and AI, 9, 997366, 2022.
+  highlight: 0
+  news2:
+
+- title: "Design and Evaluation of an Invariant Extended Kalman Filter for Trunk Motion Estimation With Sensor Misalignment"
+  image: TBG_ARPES.png
+  description:
+  authors: Z. Zhu, M. Rezayat, Y. Gu, W. Zhang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9852651
+    display:   IEEE/ASME Transactions on Mechatronics, 27(4), pp. 2158-2167, 2022.
+  highlight: 0
+  news2:
+
 - title: "Human Assistance and Augmentation with Wearable Soft Robotics: a Literature Review and Perspectives"
   image: TBG_ARPES.png
   description:
