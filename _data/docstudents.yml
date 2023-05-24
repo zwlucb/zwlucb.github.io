@@ -58,11 +58,9 @@
   photo: Jahnav.jpg
   info: R&AS, 2022-
   email: asu.edu
-
-- name: Arshnoor Singh Sachdeva
-  photo: sundevil.jpg
-  info: R&AS, 2022-
-  email: asu.edu
+  link:
+    url: https://www.linkedin.com/in/jahnav-rokalaboina
+    display: LinkedIn
 
 - name: Achyut Shrestha
   photo: AchyutShrestha_ASU_cut.png
@@ -74,7 +72,7 @@
   info: Sys. Eng., 2021-
   link:
     url: http://www.linkedin.com/in/masonowensmith
-    display: More information
+    display: LinkedIn
 
 - name: Yousef Soltanian
   photo: Yousef_cut.jpg
@@ -91,14 +89,12 @@
   info: Mech. Eng., 2019-
   email: ejquino1@asu.edu
 
-- name: Qinchen Zha
-  photo: Sam.jpg
-  info: Mfg. Eng., 2020-
-  link:
-    url: https://www.linkedin.com/in/sam-zha
-    display: More information
-
-- name: Yogesh
+- name: Yogesh Kumar
   photo: Yogesh.jpg
-  info: 
+  info: R&AS
+  email: ykumar6@asu.edu
 
+- name: Adityaraj Suresh
+  photo: sundevil.jpg
+  info: R&AS, 2022-
+  email: asures56@asu.edu

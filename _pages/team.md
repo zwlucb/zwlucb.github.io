@@ -88,7 +88,7 @@ Jump to [faculty](#faculty), [graduate students](#graduate-students), [undergrad
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br> <a href="{{ member.link.url }}">{{ member.link.display }}</a></i>
+  <i>{{ member.info }}<br> <a href="{{ member.link.url }}">{{ member.link.display }}</a>
   <br> <a href="{{ member.link2.url }}">{{ member.link2.display }}</a></i>
   <ul style="overflow: hidden">
 
