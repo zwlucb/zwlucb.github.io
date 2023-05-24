@@ -22,20 +22,35 @@ We are part of [School of Manufacturing Systems and Networks](https://msn.engine
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupphoto.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/groupphoto.jpg" alt="RISE Lab Group Photo" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/furi.JPG" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/furi.JPG" alt="Undergraduate Research" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robot.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/yiwei_robot.jpg" alt="Intent Inference" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/quad.JPG" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/shatadal_robot.JPG" alt="Aerial Grasping" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FURI2022.JPG" alt="Slide 4" />
-        </div>        
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/jon_robot.jpg" alt="Smart Bicycle" />
+        </div>
+		<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/weija_robot.jpg" alt="Bistable Mechanism" />
+        </div>
+		<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/yousef_robot.jpg" alt="Gait Rehabilitation" />
+        </div>
+		<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/yogesh_robot.jpg" alt="Aerial Perching" />
+        </div>
+		<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/mason_robot.jpg" alt="Intent Inference" />
+        </div>
+		<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/jj_robot.jpg" alt="Aerial Manipulation" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
