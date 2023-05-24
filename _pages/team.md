@@ -199,7 +199,7 @@ Jump to [faculty](#faculty), [graduate students](#graduate-students), [undergrad
 
 <div class="col-sm-12 clearfix">
 <h4>Doctoral Students</h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.alumni_phd %}
 {{ member.name }} {{ member.job }}
 {% comment %}
 <i>Dissertation: {{ member.thesis }}</i><br>
