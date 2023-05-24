@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Aravind Adhith
-  photo: sundevil.jpg
+  photo: Aravind.png
   info: R&AS, 2022-
   email: asu.edu
 
@@ -17,6 +17,12 @@
   photo: sunny.jpg
   info: Sys. Eng., 2019-
   email: samtya@asu.edu
+  link:
+    url: https://sunamatya.github.io/
+    display: Website
+  link:
+    url: https://www.linkedin.com/in/sunny-amatya-709a99154/
+    display: LinkedIn
 
 - name: Jonathan Bush
   photo: jebush.jpg
@@ -24,11 +30,14 @@
   email: jebush2@asu.edu
 
 - name: Yizhuang Garrard
-  photo: JJ.jpg
+  photo: YiZhuang.jpg
   info: Sys. Eng., 2019-
   link:
     url: https://www.linkedin.com/in/yizhuang-g/
-    display: More information
+    display: LinkedIn
+  link:
+    url: https://yzgarrard.github.io/
+    display: Website
 
 - name: Karishma Patnaik
   photo: karishma1.jpg
@@ -46,7 +55,7 @@
   email: srezayat@asu.edu
 
 - name: Jahnav Rokalaboina
-  photo: sundevil.jpg
+  photo: Jahnav.jpg
   info: R&AS, 2022-
   email: asu.edu
 
@@ -89,4 +98,7 @@
     url: https://www.linkedin.com/in/sam-zha
     display: More information
 
+- name: Yogesh
+  photo: Yogesh.jpg
+  info: 
 
