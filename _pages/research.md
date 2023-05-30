@@ -68,13 +68,12 @@ Global Sport Institute at ASU.
 <p> &nbsp; </p>
 
 ## Unmanned Aerial Vehicles
-Unmanned aerial vehicles (UAVs) become popular in various applications, such as 
+Unmanned aerial vehicles (UAVs) are popular in various applications, such as 
 aerial photography, surveillance, search and rescue, and precision agriculture. However, 
 autonomous operations of small UAVs in dynamic environments pose challenges on the design of vehicle hardware and 
-the embedded autonomy algorithms. Our research in this area will 1) explore active morphing of the UAVs, 
-2) develop accurate dynamic models and precision control algorithms, 3) integrate vision sensors 
-for object detection and motion planning, and 4) enable multiple UAVs to cooperate in aerial surveillance, 
-object transport, and aerial manipulation. 
+the embedded autonomy algorithms. Our research in this area includes (1) exploring the design of morphing UAVs, 
+(2) developing dynamic models and precision control algorithms for the new hardware, and (3) demonstrating aerial-physical
+interaction for navigation and manipulation.
 {% comment %}
 This project has been supported by the Salt River Project and the Northrop Grumman Corporation (through the Adaptive Intelligent Materials & Systems Center (AIMS) at ASU).
 {% endcomment %}
@@ -88,13 +87,13 @@ This project has been supported by the Salt River Project and the Northrop Grumm
 <p> &nbsp; </p>
 
 ## Human-Robot Collaboration
-Robots are increasingly employed in close proximity with humans. For the humans and robots to collaborate safely and 
+Robots are increasingly employed in close proximity to humans. For the humans and robots to collaborate safely and 
 efficiently, a robot needs to understand human intents, predict human actions, consider human factors, in order to optimize its own actions to 
-complete a task with human safely, efficiently, and friendly. In this project, we will explore a game-theoretic framework to model the bilateral inference 
-and decision making process between the human and robot. We are particularly interested in physical tasks that involve 
-coupled dynamics between the human and robot. One major challenge is to model the human actions in highly dynamic tasks given 
+complete a task with human safely, efficiently, and friendly. Here we will explore a game-theoretic framework to model the bilateral inference 
+and decision making process between the human and robot. We are interested in both proximal and physical tasks that involve 
+joint decision-making and joint-action between the human and robot. One major challenge is to model the human actions in highly dynamic tasks given 
 the strong variability and uncertainty of humans. We will apply the developed algorithms in various human-robot collaboration 
-scenarios, including autonomous vehicles, collaborative manufacturing, and wearable robots. For more details about how we apply the developed algorithms to autonomous vehicles, please check [this page]({{ site.url }}{{ site.baseurl }}/nri.html).
+scenarios, including autonomous vehicles, collaborative manufacturing, wearable robots, and assistive devices. For more details about how we apply the developed algorithms to autonomous vehicles, please check [this page]({{ site.url }}{{ site.baseurl }}/nri.html).
 {% comment %}
 This project has been supported by the National Science Foundation. For more details about this project, please check [this page]({{ site.url }}{{ site.baseurl }}/nri.html).
 {% endcomment %}

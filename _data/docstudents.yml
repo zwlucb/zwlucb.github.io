@@ -8,10 +8,6 @@
 #  education3:
 #  education4:
 
-- name: Aravind Adhith
-  photo: Aravind.png
-  info: R&AS, 2022-
-  email: asu.edu
 
 - name: Sunny Amatya
   photo: sunny.jpg
@@ -98,3 +94,11 @@
   photo: sundevil.jpg
   info: R&AS, 2022-
   email: asures56@asu.edu
+  
+ - name: Harinee Kannan
+   photo: sundevil.jpg
+   info: R&AS
+   
+ - name: Bill Nguyen
+   photo: sundevil.jpg
+   info: Mech. Eng.
