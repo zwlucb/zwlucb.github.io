@@ -8,15 +8,17 @@
 #  education3:
 #  education4:
 
-- name: Aravind Adhith
-  photo: sundevil.jpg
-  info: R&AS, 2022-
-  email: asu.edu
 
 - name: Sunny Amatya
   photo: sunny.jpg
   info: Sys. Eng., 2019-
   email: samtya@asu.edu
+  link:
+    url: https://sunamatya.github.io/
+    display: Website
+  link2:
+    url: https://www.linkedin.com/in/sunny-amatya-709a99154/
+    display: LinkedIn
 
 - name: Jonathan Bush
   photo: jebush.jpg
@@ -24,11 +26,14 @@
   email: jebush2@asu.edu
 
 - name: Yizhuang Garrard
-  photo: JJ.jpg
+  photo: YiZhuang.jpg
   info: Sys. Eng., 2019-
   link:
     url: https://www.linkedin.com/in/yizhuang-g/
-    display: More information
+    display: LinkedIn
+  link2:
+    url: https://yzgarrard.github.io/
+    display: Website
 
 - name: Karishma Patnaik
   photo: karishma1.jpg
@@ -46,14 +51,12 @@
   email: srezayat@asu.edu
 
 - name: Jahnav Rokalaboina
-  photo: sundevil.jpg
+  photo: Jahnav.jpg
   info: R&AS, 2022-
   email: asu.edu
-
-- name: Arshnoor Singh Sachdeva
-  photo: sundevil.jpg
-  info: R&AS, 2022-
-  email: asu.edu
+  link:
+    url: https://www.linkedin.com/in/jahnav-rokalaboina
+    display: LinkedIn
 
 - name: Achyut Shrestha
   photo: AchyutShrestha_ASU_cut.png
@@ -65,7 +68,7 @@
   info: Sys. Eng., 2021-
   link:
     url: http://www.linkedin.com/in/masonowensmith
-    display: More information
+    display: LinkedIn
 
 - name: Yousef Soltanian
   photo: Yousef_cut.jpg
@@ -82,11 +85,20 @@
   info: Mech. Eng., 2019-
   email: ejquino1@asu.edu
 
-- name: Qinchen Zha
-  photo: Sam.jpg
-  info: Mfg. Eng., 2020-
-  link:
-    url: https://www.linkedin.com/in/sam-zha
-    display: More information
+- name: Yogesh Kumar
+  photo: Yogesh.jpg
+  info: R&AS
+  email: ykumar6@asu.edu
 
-
+- name: Adityaraj Suresh
+  photo: sundevil.jpg
+  info: R&AS, 2022-
+  email: asures56@asu.edu
+  
+ - name: Harinee Kannan
+   photo: sundevil.jpg
+   info: R&AS
+   
+ - name: Bill Nguyen
+   photo: sundevil.jpg
+   info: Mech. Eng.
