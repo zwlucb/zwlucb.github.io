@@ -59,20 +59,26 @@ This project has been supported by the National Science Foundation, Arizona Depa
 Global Sport Institute at ASU. 
 {% endcomment %}
 
-<div class="col-sm-5 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/soft_combined.png){: style="width: 375px; float: right; border: 10px"}
-</div>
-<div class="col-sm-7 clearfix">
-<iframe width="500" height="281" src="https://www.youtube.com/embed/zNls8IiVqg8" frameborder="0" allowfullscreen></iframe>
-</div>
-<br>
-<div class="col-sm-5 clearfix">
-<iframe width="430" height="245" src="https://www.youtube.com/embed/3QqwjNVIfeo?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<div class="col-sm-7 clearfix">
-<iframe width="430" height="245" src="https://www.youtube.com/embed/n7Hid2VH8OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<br>
+
+<table width="876">
+	<tr>
+		<td width="438">
+			![]({{ site.url }}{{ site.baseurl }}/images/respic/soft_combined.png){: style="width: 375px; float: right; border: 10px"}
+		</td>
+		<td width="438>
+			<iframe width="437" height="245" src="https://www.youtube.com/embed/zNls8IiVqg8" frameborder="0" allowfullscreen></iframe>
+		</td>
+	</tr>
+	<tr>
+		<td width="438">
+			<iframe width="437" height="245" src="https://www.youtube.com/embed/3QqwjNVIfeo?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</td>
+		<td width="438">
+			<iframe width="437" height="245" src="https://www.youtube.com/embed/n7Hid2VH8OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		</td>
+	</tr>
+</table>
+
 <p> &nbsp; </p>
 
 ## Unmanned Aerial Vehicles
