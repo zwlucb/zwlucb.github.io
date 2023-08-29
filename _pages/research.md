@@ -63,7 +63,8 @@ Global Sport Institute at ASU.
 <table width="876">
 	<tr>
 		<td width="438">
-			![]({{ site.url }}{{ site.baseurl }}/images/respic/soft_combined.png){: style="width: 375px; float: right; border: 10px"}
+			<img src="../images/respic/soft_combined.png" width="437">
+			
 		</td>
 		<td width="438">
 			<iframe width="437" height="245" src="https://www.youtube.com/embed/zNls8IiVqg8" frameborder="0" allowfullscreen></iframe>
