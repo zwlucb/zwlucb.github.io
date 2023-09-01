@@ -35,11 +35,6 @@
     url: https://yzgarrard.github.io/
     display: Website
 
-- name: Karishma Patnaik
-  photo: karishma1.jpg
-  info: Sys. Eng., 2019-
-  email: kpatnaik@asu.edu
-
 - name: Zhi Qiao
   photo: george.jpg
   info: Mech. Eng., 2017-
@@ -91,9 +86,17 @@
   email: asures56@asu.edu
   
 - name: Harinee Kannan
-  photo: sundevil.jpg
+  photo: Harinee.jpg
   info: R&AS
    
 - name: Bill Nguyen
-  photo: sundevil.jpg
+  photo: Bill.jpeg
   info: Mech. Eng.
+
+- name: Andres Sandoval
+  photo: AndresSandoval.jpeg
+  info: Sys. Eng., 2023-
+  
+- name: Madelyn Molnar
+  photo: sundevil.jpg
+  info: Engineering
