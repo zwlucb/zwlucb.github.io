@@ -13,3 +13,12 @@
   photo: Rocchi_cut.jpg
   info: Comp. Sci., 2021-
 
+- name: Richard Kovalcik
+  photo: RichardKovalcik.png
+  info: Robotics (Electrical), 2020-
+  link:
+    url: https://www.linkedin.com/in/richard-k-49420b250/
+    display: LinkedIn
+  link2:
+    url: https://richard-kovalcik.github.io/
+    display: GitHub
