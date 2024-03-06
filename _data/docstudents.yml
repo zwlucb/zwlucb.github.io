@@ -8,6 +8,9 @@
 #  education3:
 #  education4:
 
+- name: Amirali Abazari
+  photo: sundevil.jpg
+  info: Sys. Eng., 2024-
 
 - name: Sunny Amatya
   photo: sunny.jpg
@@ -34,13 +37,6 @@
   link2:
     url: https://yzgarrard.github.io/
     display: Website
-
-- name: Archit Jain
-  photo: ArchitJain.jpeg
-  info: MS, Robotics and Autonomous Systems, 2022-
-  link:
-    url: https://www.linkedin.com/in/architrjain/
-    display: LinkedIn
 
 - name: Mostafa Rezayat
   photo: seyed.jpg
@@ -81,11 +77,6 @@
   photo: Yogesh.jpg
   info: R&AS
   email: ykumar6@asu.edu
-
-- name: Adityaraj Suresh
-  photo: sundevil.jpg
-  info: R&AS, 2022-
-  email: asures56@asu.edu
   
 - name: Harinee Kannan
   photo: Harinee.jpg
@@ -100,5 +91,5 @@
   info: Sys. Eng., 2023-
   
 - name: Madelyn Molnar
-  photo: sundevil.jpg
+  photo: Madelyn.jpg
   info: Engineering
