@@ -19,8 +19,6 @@ We are part of [School of Manufacturing Systems and Networks](https://msn.engine
 		<li data-target="#carousel" data-slide-to="5"></li>
 		<li data-target="#carousel" data-slide-to="6"></li>
 		<li data-target="#carousel" data-slide-to="7"></li>
-		<li data-target="#carousel" data-slide-to="8"></li>
-		<li data-target="#carousel" data-slide-to="9"></li>
 		
     </ol>
 
@@ -29,15 +27,6 @@ We are part of [School of Manufacturing Systems and Networks](https://msn.engine
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slide/groupphoto.jpg" alt="RISE Lab Group Photo" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/furi.JPG" alt="Undergraduate Research" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/yiwei_robot.jpg" alt="Intent Inference" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/shatadal_robot.JPG" alt="Aerial Grasping" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slide/jon_robot.jpg" alt="Smart Bicycle" />
@@ -56,6 +45,9 @@ We are part of [School of Manufacturing Systems and Networks](https://msn.engine
         </div>
 		<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slide/jj_robot.jpg" alt="Aerial Manipulation" />
+        </div>
+				<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/FURI2022.jpg" alt="Fulton Undergraduate Research Initiative" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

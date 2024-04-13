@@ -7,9 +7,9 @@ permalink: /team/
 ---
 
 # Group Members
-		  {% comment %}
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-		  {% endcomment %}
+
+ **If you are interested in joining our lab as an undergraduate or masters student, pleas fill out [this form](https://forms.gle/eeDiRDo6nhceJv2K9).** **!**
+
 
 Jump to [faculty](#faculty), [graduate students](#graduate-students), [undergradaute students](#undergraduate-students), [alumni](#alumni).
 
