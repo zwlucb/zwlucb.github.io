@@ -38,6 +38,13 @@
     url: https://yzgarrard.github.io/
     display: Website
 
+- name: Tolemy Nibi
+  photo: sundevil.jpg
+  info: Aerospace Engineering, 2023-
+  link:
+    url: https://www.linkedin.com/in/tolemy-nibi/
+    display: LinkedIn
+
 - name: Jahnav Rokalaboina
   photo: Jahnav.jpg
   info: R&AS, 2022-
@@ -64,7 +71,7 @@
   email: asu.edu
 
 - name: Weijia Tao
-  photo: sundevil.jpg
+  photo: wtao11.jfif
   info: Sys. Eng., 2021-
   email: asu.edu
 
@@ -72,10 +79,6 @@
   photo: Yogesh.jpg
   info: R&AS
   email: ykumar6@asu.edu
-  
-- name: Harinee Kannan
-  photo: Harinee.jpg
-  info: R&AS
    
 - name: Bill Nguyen
   photo: Bill.jpeg
@@ -84,7 +87,3 @@
 - name: Andres Sandoval
   photo: AndresSandoval.jpeg
   info: Sys. Eng., 2023-
-  
-- name: Madelyn Molnar
-  photo: Madelyn.jpg
-  info: Engineering
