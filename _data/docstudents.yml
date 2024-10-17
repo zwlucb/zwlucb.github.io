@@ -72,10 +72,6 @@
   photo: Yogesh.jpg
   info: R&AS
   email: ykumar6@asu.edu
-  
-- name: Harinee Kannan
-  photo: Harinee.jpg
-  info: R&AS
    
 - name: Bill Nguyen
   photo: Bill.jpeg
@@ -84,7 +80,3 @@
 - name: Andres Sandoval
   photo: AndresSandoval.jpeg
   info: Sys. Eng., 2023-
-  
-- name: Madelyn Molnar
-  photo: Madelyn.jpg
-  info: Engineering
